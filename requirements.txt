@@ -1,4 +1,4 @@
-google-genai
+google-genai 
 streamlit
-ployly
-pandas
+pandas 
+plotly
